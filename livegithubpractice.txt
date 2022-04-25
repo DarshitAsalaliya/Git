@@ -42,3 +42,6 @@ https://drive.google.com/drive/folders/1Sk8bZnqSdbubHyBdPKL0G-HmQnj_eAYt
 
 Node
 https://drive.google.com/drive/folders/1KIbFW_QHq9ZRY7RLa8io72p8QwP4SS8z
+
+Angular
+https://drive.google.com/drive/folders/1ynfcdKqVcqNmi8GxebSmNpI3LVJUS3Tx
